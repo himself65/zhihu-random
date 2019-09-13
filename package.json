@@ -5,5 +5,11 @@
   "repository": "https://github.com/Himself65/zhihu-random.git",
   "author": "himself65",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "axios": "^0.19.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.5"
+  }
 }
