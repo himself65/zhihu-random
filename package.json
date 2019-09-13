@@ -1,0 +1,9 @@
+{
+  "name": "zhihu-random",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/Himself65/zhihu-random.git",
+  "author": "himself65",
+  "license": "MIT",
+  "private": true
+}
